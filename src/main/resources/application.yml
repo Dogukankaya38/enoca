@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: enoca-micro-service
+server:
+  port: 8080
